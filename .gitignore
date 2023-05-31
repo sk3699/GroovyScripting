@@ -1,0 +1,6 @@
+bin
+.settings
+.idea
+.classpath
+.project
+src/deployPackage
